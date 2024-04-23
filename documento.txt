@@ -1,0 +1,4 @@
+RSA funciona multiplicando dos números primos para generar un semiprimo, que crea una clave pública. 
+Para que alguien pueda descifrar el mensaje, tendría que determinar los dos números primos utilizados 
+para crear el semiprimo. Con números primos grandes, es extremadamente complejo y requiere mucho 
+tiempo determinar esos dos números.
